@@ -28,6 +28,7 @@ nav li {
   main, footer {
       font-family: 'PT Serif', serif;
       font-size: 1.125rem;
+      font-weight: normal;
   }
 
 img {
