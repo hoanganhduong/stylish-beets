@@ -65,8 +65,14 @@ ol li {
   list-style-type: lower-greek;
 }
 
-dt {
+.serving {
+  font-style: italic;
+  line-height: 1.2;
+}
+
+.dl-2 dt {
   font-weight: bold;
+  line-height: 1.2;
 }
 
 aside > ul li {
