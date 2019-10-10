@@ -28,6 +28,9 @@ nav a {
       font-size: 1.125rem; ;
   }
 
+img {
+  width: 100%;
+}
   figcaption {
   text-align: center;
   font-style: italic;
@@ -36,6 +39,11 @@ nav a {
   p:nth-last-of-type(4) {
     font-weight: bold;
     font-size: 1.5rem;
+  }
+
+  a:hover {
+    color: #222;
+    text-decoration: underline;
   }
 
   blockquote {
