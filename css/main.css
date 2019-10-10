@@ -23,7 +23,7 @@ nav a {
   text-decoration: none;
   }
 
-  main {
+  main, footer {
       font-family: 'PT Serif', serif;
       font-size: 1.125rem; ;
   }
