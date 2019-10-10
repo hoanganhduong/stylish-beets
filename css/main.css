@@ -41,9 +41,11 @@ figcaption {
   font-style: italic;
 }
 
-p:nth-last-of-type(4) {
+.p-1 {
+  font-size: 1.125rem;
   font-weight: bold;
-  font-size: 1.5rem;
+}
+
 }
 
 a:hover {
