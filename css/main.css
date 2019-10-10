@@ -2,6 +2,16 @@ html {
   background-color: #c9b5ab;
   font-family: 'PT Sans', sans-serif;
 }
+header > nav a {
+  color: #8f2440;
+  font-weight: bold;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
+
+header > nav li {
+  list-style-type: none;
+}
 
 h1, h2 {
   color: #3f1622;
@@ -14,14 +24,7 @@ h1, h2 {
 nav li {
   list-style-type: none;
   font-weight: bold;
-  }
-
-nav a {
-  color: #8f2440;
-  font-weight: bold;
-  font-size: 1.125rem;
-  text-decoration: none;
-  }
+ }
 
   main, footer {
       font-family: 'PT Serif', serif;
