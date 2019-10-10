@@ -50,3 +50,10 @@ nav a {
   ol li {
     list-style-type: lower-greek;
   }
+
+  dt {
+    font-weight: bold;
+  }
+ aside > ul li {
+   list-style-type: circle;
+ }
