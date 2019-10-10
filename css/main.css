@@ -23,11 +23,17 @@ nav a {
   text-decoration: none;
   }
 
-  figcaption {
-  text-align: center;
-  font-family: 'PT Serif', serif;
-  font-style: italic;
-  font-size: 0.8rem;
+  main {
+      font-family: 'PT Serif', serif;
+      font-size: 1.125rem; ;
   }
 
-  
+  figcaption {
+  text-align: center;
+  font-style: italic;
+  }
+
+  p:nth-last-of-type(4) {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
