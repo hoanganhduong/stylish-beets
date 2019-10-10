@@ -45,4 +45,8 @@ nav a {
   }
    cite:nth-last-of-type(1) {
      font-size: 0.8rem;
-   }
+  }
+
+  ol li {
+    list-style-type: lower-greek;
+  }
