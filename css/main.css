@@ -2,7 +2,7 @@ html {
   background-color: #c9b5ab;
   font-family: 'PT Sans', sans-serif;
 }
-header > nav a {
+a, nav li {
   color: #8f2440;
   font-weight: bold;
   font-size: 1.125rem;
